@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am an engineering student at University of Waterloo's Nanotechnology Engineering program. Naturally curious, I have a passion for problem solving and thrive on challenges. I excel in projects where I can apply my analytical, research skills and academic knowledge.
+
+🚗 I'm a member of UW Midnight Sun Solar Car team, working on the Aerodynamics and Battery subteams.
+
